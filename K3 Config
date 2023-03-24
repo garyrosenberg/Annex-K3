@@ -28,7 +28,7 @@
 [mcu] 
 #   You will need to set this definition manually following the instructions in the line below
 #	obtain definition by "ls -l /dev/serial/by-id/" then unplug to verify
-serial: /dev/serial/by-id/usb-Klipper_Klipper_firmware_12345-if00
+serial: /dev/serial/by-id/usb-Klipper_stm32f446xx_43003D001451303530323539-if00
 restart_method: command
 
 # EXP1 / EXP2 (display) pins
